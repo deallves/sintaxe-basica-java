@@ -18,5 +18,6 @@ public class testavariaveis {
 		System.out.println(idade);
 		System.out.println("a idade é " + idade +",parabéns!" );
 		
+		
 	}
 }
