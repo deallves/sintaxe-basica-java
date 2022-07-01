@@ -1,5 +1,14 @@
 # sintaxe-basica-java  
 
+executar esses comandos na raiz do projeto (~/git/sintaxe-basica-java ) usando o cmd ou gitbash
+
+acessar o gitbash
+acessar a pasta do projeto (cd vai para o caminho(path/diretorio) indicado)
+$ cd ~/git/sintaxe-basica-java
+
+acessar o cmd(prompt de comando)windows + r
+cd C:\Users\rafae\git\sintaxe-basica-java
+
 Ver status
 $ git status
 
