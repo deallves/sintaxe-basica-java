@@ -5,7 +5,7 @@ public class TesteIr {
 		double irSerPago = 0.0;
 		double irSerPagoFinal = 0.0;
 
-		double salario = 2575.0;
+		double salario = 3300.0;
 
 		if (salario >= 1900.0 && salario <= 2800.0) {
 			System.out.println("pode deduzir na declaração o valor de R$ 142");
