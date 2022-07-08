@@ -1,9 +1,16 @@
 
 public class TesteMeu {
-	
-	int idade = 68;
-	boolean ehIdoso = idade >= 65;
-	
-	System.out.println(ehIdoso); 
 
+	public static void main(String[] args) {
+
+		boolean foiPromovido = true;
+		double salario = 0.0;
+		if (foiPromovido) {
+			salario = 4200.0;
+		} else {
+			salario = 3800.0;
+		}
+
+		System.out.println(salario);
+	}
 }
